@@ -7,11 +7,11 @@ Sean Dowling
 This code accompanies the dissertation titled "Investigating the Influence of Sentiment on Financial Time Series." 
 It contains implementations related to the experiments conducted in the thesis.
 
-[text](Compile_Data.py) calculates and aggregates the time series data required for the project.
+[Compile_Data.py](Compile_Data.py) calculates and aggregates the time series data required for the project.
 
-[text](Get_Returns_Distribution.py) & [text](Get_Returns_Summary_Stats.py) are used to analyse the financial returns time series.
+[Get_Returns_Distribution.py](Get_Returns_Distribution.py) & [Get_Returns_Summary_Stats.py](Get_Returns_Summary_Stats.py) are used to analyse the financial returns time series.
 
-[text](Plot_Rolling_VAR_Results.py) is used to analyse the results of the rolling VAR models.
+[Plot_Rolling_VAR_Results.py](Plot_Rolling_VAR_Results.py) is used to analyse the results of the rolling VAR models.
 
 ## Note:
 Not all of the data used for the evaluation of this system is included in this repository. 
