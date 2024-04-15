@@ -36,7 +36,7 @@ loop i=1..end_index
     endloop
     
     # Run the VAR model
-    var 5 sliced_Absolute_Returns sliced_Negative_Sentiment --robust-hac #--silent
+    var 5 sliced_Absolute_Returns sliced_Negative_Sentiment --robust-hac --silent
 
 	# Calculate degrees of freedom
 	scalar ncoeffs = nelem($coeff)
