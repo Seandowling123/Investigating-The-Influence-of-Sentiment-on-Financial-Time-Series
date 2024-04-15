@@ -7,7 +7,9 @@ Sean Dowling
 This code accompanies the dissertation titled "Investigating the Influence of Sentiment on Financial Time Series." 
 It contains implementations related to the experiments conducted in the thesis.
 
-[Combine_txt.py](Combine_txt.py) Combines the downloaded articles in to one .txt file.
+[(Convert_pdf_txt.py](Convert_pdf_txt.py) converts the downloaded article .pdf files into .txt files.
+
+[Combine_txt.py](Combine_txt.py) combines article .txt files in to one .txt file.
 
 [Compile_Data.py](Compile_Data.py) calculates and aggregates the time series data required for the project.
 
@@ -15,7 +17,6 @@ It contains implementations related to the experiments conducted in the thesis.
 
 [Run_Returns_VAR.inp](GRETL_Scripts/Run_Returns_VAR.inp) and [Run_Absolute_Returns_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_VAR.inp) run the VAR models in GRETL.
 [Run_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Returns_Rolling_VAR.inp) and [Run_Absolute_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_Rolling_VAR.inp) run the rolling VAR models in GRETL.
-
 
 [Plot_Rolling_VAR_Results.py](Plot_Rolling_VAR_Results.py) is used to analyse the results of the rolling VAR models.
 
