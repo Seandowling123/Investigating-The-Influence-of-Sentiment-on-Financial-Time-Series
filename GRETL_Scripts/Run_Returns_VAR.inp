@@ -7,7 +7,7 @@ var 5 Returns --robust-hac
 var 5 Returns Negative_Sentiment --robust-hac
 
 # Model 3
-var 5 Returns Media_Volume --robust-hac
+var 5 Returns Article_Count --robust-hac
 
 # Model 4
 var 5 Returns Negative_Sentiment Article_Count --robust-hac
