@@ -17,7 +17,7 @@ All scripts are run in Python bar the scripts in the GRETL_Scripts directory, wh
 
 [Get_Returns_Distribution.py](Get_Returns_Distribution.py) & [Get_Returns_Summary_Stats.py](Get_Returns_Summary_Stats.py) are used to analyse the financial returns time series.
 
-[Run_Returns_VAR.inp](GRETL_Scripts/Run_Returns_VAR.inp) and [Run_Absolute_Returns_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_VAR.inp) run the VAR models in GRETL.
+[Run_Returns_VAR.inp](GRETL_Scripts/Run_Returns_VAR.inp) & [Run_Absolute_Returns_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_VAR.inp) run the VAR models in GRETL.
 
 [Run_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Returns_Rolling_VAR.inp) and [Run_Absolute_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_Rolling_VAR.inp) run the rolling VAR models in GRETL.
 
