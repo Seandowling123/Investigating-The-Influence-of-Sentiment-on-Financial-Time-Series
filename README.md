@@ -11,7 +11,7 @@ All scripts are run in Python bar the scripts in the GRETL_Scripts directory, wh
 
 [Convert_pdf_txt.py](Convert_pdf_txt.py) converts the downloaded article .pdf files into .txt files.
 
-[Combine_txt.py](Combine_txt.py) combines article .txt files in to one .txt file.
+[Combine_txt.py](Combine_txt.py) combines article .txt files into one .txt file.
 
 [Compile_Data.py](Compile_Data.py) calculates and aggregates the time series data required for the project.
 
