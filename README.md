@@ -9,7 +9,7 @@ It contains implementations related to the experiments conducted in the thesis.
 
 All scripts are run in Python bar the scripts in the GRETL_Scripts directory, which are run in the GRETL script editor.
 
-[(Convert_pdf_txt.py](Convert_pdf_txt.py) converts the downloaded article .pdf files into .txt files.
+[Convert_pdf_txt.py](Convert_pdf_txt.py) converts the downloaded article .pdf files into .txt files.
 
 [Combine_txt.py](Combine_txt.py) combines article .txt files in to one .txt file.
 
