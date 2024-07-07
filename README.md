@@ -19,7 +19,7 @@ All scripts are run in Python bar the scripts in the GRETL_Scripts directory, wh
 
 [Run_Returns_VAR.inp](GRETL_Scripts/Run_Returns_VAR.inp) & [Run_Absolute_Returns_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_VAR.inp) run the VAR models in GRETL.
 
-[Run_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Returns_Rolling_VAR.inp) and [Run_Absolute_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_Rolling_VAR.inp) run the rolling VAR models in GRETL.
+[Run_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Returns_Rolling_VAR.inp) & [Run_Absolute_Returns_Rolling_VAR.inp](GRETL_Scripts/Run_Absolute_Returns_Rolling_VAR.inp) run the rolling VAR models in GRETL.
 
 [Plot_Rolling_VAR_Results.py](Plot_Rolling_VAR_Results.py) is used to analyse the results of the rolling VAR models.
 
