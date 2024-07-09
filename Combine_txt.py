@@ -19,6 +19,7 @@ Dependencies:
 
 import os
 
+# Combine the files into one
 def combine_txt_files_in_folder(output_file, folder_path):
     try:
         with open(output_file, 'w', encoding='utf-8', errors='ignore') as output:
@@ -33,5 +34,4 @@ def combine_txt_files_in_folder(output_file, folder_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage:
 combine_txt_files_in_folder('Raw_Articles/Articles_combined.txt', 'Articles_txt')
