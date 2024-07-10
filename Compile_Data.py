@@ -216,6 +216,8 @@ def extract_article_data(raw_articles, sources, articles_backup_path):
             date = get_date_match(raw_articles[i])
             if isinstance(date, datetime):
                 if date >= datetime(2004, 1, 1):
+
+                    # Check for valid source
                     source = get_source_match(raw_articles[i], sources)
                     if source:
                         
